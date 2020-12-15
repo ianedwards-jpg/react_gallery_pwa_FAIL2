@@ -1,0 +1,27 @@
+{
+  "name": "react_gallery_pwa",
+  "version": "1.0.0",
+  "description": "Gallery application written with Node.js/React.js and related packages. Will become PWA upon completion of inital setup. All addtional packages will be noted in package.json and ReadMe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test to test app | npm start for development module "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianedwards-jpg/react_gallery_PWA.git"
+  },
+  "keywords": [
+    "Node.js",
+    "React.js",
+    "Gallery",
+    "PWA",
+    "Webpack",
+    "Serviceworker"
+  ],
+  "author": "Ian Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianedwards-jpg/react_gallery_PWA/issues"
+  },
+  "homepage": "https://github.com/ianedwards-jpg/react_gallery_PWA#readme"
+}
