@@ -1,0 +1,19 @@
+{
+  "name": "react_gallery_pwa",
+  "version": "1.0.0",
+  "description": "React App ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianedwards-jpg/react_gallery_pwa.git"
+  },
+  "author": "Ian Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianedwards-jpg/react_gallery_pwa/issues"
+  },
+  "homepage": "https://github.com/ianedwards-jpg/react_gallery_pwa#readme"
+}
